@@ -1,4 +1,4 @@
-# simple_app_playground
+# Go Router Builder Prototype
 
 A Flutter project to demonstrate the usage of the go_router_builder, which ensures typesave navigation in a Flutter app.
 
